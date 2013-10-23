@@ -1,5 +1,3 @@
 php redis admin
-==============
-
-This is for admin redis info.
----------------
+#########
+		This is for admin redis info.
